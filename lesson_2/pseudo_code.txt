@@ -1,0 +1,19 @@
+For example, write out pseudo-code (both casual and formal) that does the following:
+
+++++ A method that returns the sum of two integers
+given 2 numbers
+return number1 + number 2
+
+
+++++ A method that takes an array of strings, and returns a string that is all those strings concatenated together
+oh god reall code is so much easier here.  Array.join(delimiter)
+
+++++ A method that takes an array of integers, and returns a new array with every other element
+
+GIVEN array of strings
+SET new_array = []
+WHILE iterator < array length
+
+ADD current array item to new+array IF iterator is even number
+
+return new_array
