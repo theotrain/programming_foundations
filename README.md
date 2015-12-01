@@ -1,3 +1,3 @@
 # programming_foundations
 
-Launch school basic programming course
+Launch School basic programming course
